@@ -1,4 +1,3 @@
-package POO.Conceitos;
 
 public class tabuada {
     

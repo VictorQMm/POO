@@ -1,4 +1,4 @@
-package POO.Conceitos;
+
 
 public class encapsulamento {
     

@@ -1,4 +1,4 @@
-package POO.Conceitos;
+
 public class ex_palindromo {
     public static void main(String args[]) {
         int maior = 0;

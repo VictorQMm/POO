@@ -1,4 +1,4 @@
-package POO.Conceitos;
+
 import java.util.Scanner;
 
 public class x_scanner {
