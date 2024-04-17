@@ -1,0 +1,20 @@
+Criação de Sistema para uma Universidade:
+
+Setor de Matricula ----> Aluno(Nome, Matricula, Idade, Cpf, email, endereço, curso(), ano de ingresso, Rg) , Curso( nome, carga horária, tempo de duração, )
+
+Setor de Bíblioteca ---> Aluno(), Livro( nome, autor, editora, cod do livro), qtd disponivel, livros alugados, data de retirada, data de devolução, taxa de atraso, tempo de atraso;
+
+Setor de Restaurante --> bandejao sem Id , vendas totais(bandejao sem Id + bandejao com Id(aluno(saldo do aluno))), mesas disponiveis, bandejao com Id(aluno()), 
+
+Setor de Tesouraria ----> saldo, contas fixas(luz, agua, gas, salario, internet), lucro(vendas totais()), taxas, contas bac;
+
+Criação de Sistema para uma Universidade:
+
+Setor de Matricula ----> Aluno(Nome, Matricula, Idade, Cpf, email, endereço, curso(), ano de ingresso, Rg) , Curso( nome, carga horária, tempo de duração, )
+
+Setor de Bíblioteca ---> Aluno(), Livro( nome, autor, editora, cod do livro), qtd disponivel, livros alugados, data de retirada, data de devolução, taxa de atraso, tempo de atraso;
+
+Setor de Restaurante --> bandejao sem Id , vendas totais(bandejao sem Id + bandejao com Id(aluno(saldo do aluno))), mesas disponiveis, bandejao com Id(aluno()), 
+
+Setor de Tesouraria ----> saldo, contas fixas(luz, agua, gas, salario, internet), lucro(vendas totais()), taxas, contas bac;
+
