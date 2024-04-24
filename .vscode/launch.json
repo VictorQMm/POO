@@ -1,0 +1,108 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "atividade7",
+      "request": "launch",
+      "mainClass": "Atividades.atividade7",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "InverterFrase",
+      "request": "launch",
+      "mainClass": "Atividades.InverterFrase",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade5",
+      "request": "launch",
+      "mainClass": "Atividades.atividade5",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade4",
+      "request": "launch",
+      "mainClass": "Atividades.atividade4",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade3",
+      "request": "launch",
+      "mainClass": "Atividades.atividade3",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade2",
+      "request": "launch",
+      "mainClass": "Atividades.atividade2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade1",
+      "request": "launch",
+      "mainClass": "Atividades.atividade1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade1",
+      "request": "launch",
+      "mainClass": "POO.Conceitos.Atividades.atividade1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "IfcomElse",
+      "request": "launch",
+      "mainClass": "Revisão.IfcomElse",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "If",
+      "request": "launch",
+      "mainClass": "Revisão.If",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "IfcomElse",
+      "request": "launch",
+      "mainClass": "JOptionPan.IfcomElse",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "If",
+      "request": "launch",
+      "mainClass": "If",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/yguin/OneDrive/Documentos/GitHub/POO/Conceitos",
+      "program": "c:/Users/yguin/OneDrive/Documentos/GitHub/POO/Conceitos/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

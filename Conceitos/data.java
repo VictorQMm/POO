@@ -13,7 +13,7 @@ String nome = "Victor";
 
     LocalDate hoje = LocalDate.now();
 
-    String diaSemana =(hoje.getDayOfWeek().getDisplayName(TextStyle.FULL,brasil));
+    String diaSemana =(hoje.getDayOfWeek().getDisplayName(TextStyle.FULL,Brasil));
 
     String saudacao;
 
