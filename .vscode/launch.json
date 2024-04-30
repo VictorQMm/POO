@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "atividade6",
+      "request": "launch",
+      "mainClass": "Atividades.atividade6",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "atividade7",
       "request": "launch",
       "mainClass": "Atividades.atividade7",

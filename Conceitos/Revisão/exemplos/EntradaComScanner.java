@@ -1,3 +1,4 @@
+package Revisão.exemplos;
 import java.util.*;
 public class EntradaComScanner {
     public static void main(String []args) {
