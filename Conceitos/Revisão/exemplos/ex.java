@@ -9,5 +9,5 @@ if(i % 3==0 || i % 5==0){
     soma = soma +1;
  }
 }
-System.out.println(soma);
+System.out.printf(soma);
 }

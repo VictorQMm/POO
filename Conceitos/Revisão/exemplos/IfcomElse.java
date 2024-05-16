@@ -1,4 +1,4 @@
-package Revisão;
+package Revisão.exemplos;
 
 import javax.swing.*;
 

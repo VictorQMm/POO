@@ -1,3 +1,5 @@
+package Revisão.exemplos;
+
 
 import java.util.Locale;
 import java.time.LocalDate;
@@ -5,6 +7,8 @@ import java.time.format.TextStyle;
 import java.time.LocalDateTime;
 
 public class data {
+
+private static final Locale Brasil = null;
 
 public static void main (String[] args){
 // Olá, {nome}. Hoje é {dia da semana}, Bom dia.

@@ -1,3 +1,4 @@
+package Revisão.exemplos;
 
 import javax.swing.JOptionPane;
 
@@ -25,4 +26,5 @@ maior = (c> d) ? c: d;
 
 JOptionPane.showMessageDialog(null, "Usando um if resumido: " + maior);
 
+    }
 }

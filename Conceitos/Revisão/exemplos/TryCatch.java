@@ -1,4 +1,4 @@
-package Revisão;
+package Revisão.exemplos;
 
 import javax.swing.JOptionPane;
 
@@ -8,7 +8,7 @@ public static void main(String args[]) {
 
 try {
 
-String aux1 = JOptionPane.showInputDialog("Forneça o valor do 1º número:"):
+String aux1 = JOptionPane.showInputDialog("Forneça o valor do 1º número:");
 
 int num1 = Integer.parseInt(aux1.toString());
 

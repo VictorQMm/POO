@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UseGPS",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.Atividades.UseGPS",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "BombaAa2",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.Atividades.BombaAa2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "BombaA2",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.Atividades.BombaA2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "atividade8",
+      "request": "launch",
+      "mainClass": "Atividades.atividade8",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.Atividades.Main",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "TelevisoeTestaConstrutor",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.TelevisoeTestaConstrutor",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "UsaCelular",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.UsaCelular",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "UsaTelevisorEncapsulada",
+      "request": "launch",
+      "mainClass": "Revisão.Classes.UsaTelevisorEncapsulada",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "atividade6",
       "request": "launch",
       "mainClass": "Atividades.atividade6",
