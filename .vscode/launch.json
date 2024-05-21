@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "testee",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.testee",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "EntradaComScanner",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.EntradaComScanner",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ConversaoDeTipos",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.ConversaoDeTipos",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "UseGPS",
       "request": "launch",
       "mainClass": "Revisão.Classes.Atividades.UseGPS",
