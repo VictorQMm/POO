@@ -10,11 +10,14 @@ public class atividade4 {
 
         float num = Float.parseFloat(numInput);
 
-    
+        String resultado = " ";
+
         for (int i = 1; i <= 10; i++) {
-            JOptionPane.showMessageDialog(null, (num + " x " + i + " = ") + (num * i));
+            resultado += (num + " x " + i + " = ") + (num * i) + "\n";
         }
 
+        JOptionPane.showMessageDialog(null, resultado);
     }
 
 }
+

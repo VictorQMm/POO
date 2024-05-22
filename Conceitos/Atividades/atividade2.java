@@ -38,8 +38,8 @@ public class atividade2 {
             menor = re3;
         }
 
-        JOptionPane.showMessageDialog(null, "A maior resistencia eh " + maior);
-        JOptionPane.showMessageDialog(null, "A menor resistencia eh " + menor);
+        JOptionPane.showMessageDialog(null, "A maior resistencia eh " + maior + "\nA menor resistencia eh " + menor);
+        
     }
 }
 

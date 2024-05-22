@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CarroTestar",
+      "request": "launch",
+      "mainClass": "Revisão.Treino.Car.CarroTestar",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ex",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.ex",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "estudo",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.estudo",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "testee",
       "request": "launch",
       "mainClass": "Revisão.exemplos.testee",

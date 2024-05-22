@@ -1,4 +1,5 @@
-package cap07;
+
+
 public class UsaTelevisor {
     public static void main(String[] Args) {
         Televisor tv = new Televisor();

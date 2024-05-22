@@ -29,3 +29,4 @@ public class atividade8 {
         ligar(bomba, 10);
     }
 }
+ 
