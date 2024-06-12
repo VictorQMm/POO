@@ -1,5 +1,5 @@
 package Atividades;
-
+import java.util.Scanner;
 class BombaAgua {
     int status;
 
@@ -26,7 +26,14 @@ public class atividade8 {
 
     public static void main(String[] args) {
         BombaAgua bomba = new BombaAgua();
-        ligar(bomba, 10);
+
+        int tempo;
+        Scanner sc = new Scanner(System.in);
+
+    System.out.println("Insira o tempo desejado para a bomba ficar ligada até desligar: ");
+    tempo = sc.nextInt();
+
+        ligar(bomba, tempo);
     }
 }
  

@@ -25,7 +25,7 @@ public class atividade1 {
         }
 
         
-        JOptionPane.showMessageDialog(null, "Nome do Produto: " + produto + "\nValor Total: " + "R$" + valor + "\nValor com Desconto: " + "R$" + (valor - desconto));
+        JOptionPane.showMessageDialog(null, "Nome do Produto: " + produto + "\nValor Total: " + "R$" + valor + "\nValor com Desconto: " + "R$ " + (valor - desconto));
         
     }
 }

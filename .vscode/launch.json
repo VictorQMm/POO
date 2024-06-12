@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TryCatch",
+      "request": "launch",
+      "mainClass": "Revisão.exemplos.TryCatch",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CarroTestar",
       "request": "launch",
       "mainClass": "Revisão.Treino.Car.CarroTestar",
