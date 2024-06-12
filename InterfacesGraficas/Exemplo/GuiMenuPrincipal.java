@@ -1,5 +1,6 @@
+package Exemplo;
 import java.awt.*;
-import java.awt.event;
+import java.awt.event.*;
 import javax.swing.*;
 public class GuiMenuPrincipal extends JFrame { 
 	private Container contentPane;
@@ -21,15 +22,15 @@ public class GuiMenuPrincipal extends JFrame {
 		mnArquivo.setMnemonic ('A') ;
 		mnExemplos = new JMenu("Exemplos");
 		mnExemplos.setMnemonic('E');
-		miSair = new JMenuItem("Sair", new Imagelcon("sair.jpg")); 
-		miSair.setÀccelerator (KeyStroke.getKeyStroke(
-		KeyEvent.VK_S, AccionEvent.ALT_MASK));
+		miSair = new JMenuItem("Sair", new ImageIcon("carecacalvo.jpg")); 
+		miSair.setAccelerator (KeyStroke.getKeyStroke(
+		KeyEvent.VK_S, ActionEvent.ALT_MASK));
 		miBotao = new JMenuItem("Botão"); 
 		mnArquivo.add(miSair);
 		mnExemplos.add (miBotao);
 		mnBarra.add (mnArquivo);
 		mnBarra.add(mnExemplos);
-		set JMenuBar (mnBarra);
+		setJMenuBar (mnBarra);
 	}
 
 	private void definirEventos() { 
@@ -39,7 +40,7 @@ public class GuiMenuPrincipal extends JFrame {
 			}
 		});
 
-		miBotao.addActionListener(new AcrionListener() { 
+		miBotao.addActionListener(new ActionListener() { 
 			public void actionPerformed(ActionEvent e) { 
 				// aqui vai o codigo para chamar o exemplo 8.3
 			}

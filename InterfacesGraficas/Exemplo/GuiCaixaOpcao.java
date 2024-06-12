@@ -1,3 +1,4 @@
+package Exemplo;
 import java.awt.event.*;
 import javax.swing.*;
 public class GuiCaixaOpcao extends JPanel {

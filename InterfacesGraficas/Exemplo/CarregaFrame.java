@@ -1,3 +1,4 @@
+package Exemplo;
 import javax.swing.JFrame;
 public class CarregaFrame {
     public static void main(String[] args){
