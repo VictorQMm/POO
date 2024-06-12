@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CarregaFrame",
+      "request": "launch",
+      "mainClass": "CarregaFrame",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "GuiLogin",
+      "request": "launch",
+      "mainClass": "GuiLogin",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "GuiLogin",
+      "request": "launch",
+      "mainClass": "InterfacesGraficas.GuiLogin",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ex1",
+      "request": "launch",
+      "mainClass": "InterfacesGraficas.ex1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "TryCatch",
       "request": "launch",
       "mainClass": "Revisão.exemplos.TryCatch",
