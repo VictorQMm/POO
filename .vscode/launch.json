@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GuiMenuPrincipal",
+      "request": "launch",
+      "mainClass": "Exemplo.GuiMenuPrincipal",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "GuiLogin",
+      "request": "launch",
+      "mainClass": "Exemplo.GuiLogin",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CarregaFrame",
       "request": "launch",
       "mainClass": "CarregaFrame",
