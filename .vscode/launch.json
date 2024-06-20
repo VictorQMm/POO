@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CriaConta",
+      "request": "launch",
+      "mainClass": "JavaBank.contas.CriaConta",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "x",
+      "request": "launch",
+      "mainClass": "Treino.x",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaLabel",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaLabel",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBotao",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaBotao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaCombo",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaCombo",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaLogin",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaLogin",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaRadio",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaRadio",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaGuiLista",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaGuiLista",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaTexto",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaTexto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaFrame",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaFrame",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "GuiMenuPrincipal",
       "request": "launch",
       "mainClass": "Exemplo.GuiMenuPrincipal",

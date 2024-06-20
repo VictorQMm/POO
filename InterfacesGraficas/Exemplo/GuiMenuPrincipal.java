@@ -3,7 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 public class GuiMenuPrincipal extends JFrame { 
-	private Container contentPane;
 	private JMenuBar mnBarra;
 	private JMenu mnArquivo, mnExemplos; 
 	private JMenuItem miSair, miBotao;
@@ -16,13 +15,13 @@ public class GuiMenuPrincipal extends JFrame {
 	private void inicializarComponentes() { 
 		setTitle("Menu Principal");
 		setBounds(0, 0, 800, 600);
-		contentPane = getContentPane();
+		getContentPane();
 		mnBarra = new JMenuBar();
 		mnArquivo = new JMenu("Arquivo");
 		mnArquivo.setMnemonic ('A') ;
 		mnExemplos = new JMenu("Exemplos");
 		mnExemplos.setMnemonic('E');
-		miSair = new JMenuItem("Sair", new ImageIcon("carecacalvo.jpg"); 
+		miSair = new JMenuItem("Sair", new ImageIcon("carecacalvo.jpg")); 
 		miSair.setAccelerator (KeyStroke.getKeyStroke(
 		KeyEvent.VK_S, ActionEvent.ALT_MASK));
 		miBotao = new JMenuItem("Botão"); 

@@ -12,7 +12,10 @@ public class GuiBotao extends JPanel{
 
     private void inicializarComponentes() {
         setLayout(null);
-        imageIcon1 = new ImageIcon("carecacalvo.jpg");
+        String path = "carecacalvo1.jpg";
+        imageIcon1 = new ImageIcon(getClass().getResource(path));
+        imageIcon1 = new ImageIcon("carecacalvo1.jpg");
+        
         btMensagem = new JButton("Mensagem", imageIcon1);
         btMensagem.setBounds(50, 20, 140, 38);
         btMensagem.setMnemonic(KeyEvent.VK_M);
