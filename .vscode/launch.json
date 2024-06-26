@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CarregaConfirm",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaConfirm",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CriaConta",
       "request": "launch",
       "mainClass": "JavaBank.contas.CriaConta",
