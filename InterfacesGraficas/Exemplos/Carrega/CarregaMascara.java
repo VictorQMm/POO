@@ -1,6 +1,7 @@
 package Exemplos.Carrega;
 
 import Exemplos.GuiMascara;
+import javax.swing.JFrame;
 
 public class CarregaMascara {
     public static void main(String[] args){

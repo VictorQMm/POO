@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CadastroConta",
+      "request": "launch",
+      "mainClass": "Atividades.CadastroConta",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroProduto",
+      "request": "launch",
+      "mainClass": "Atividades.CadastroProduto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroCurso",
+      "request": "launch",
+      "mainClass": "Atividades.CadastroCurso",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroProduto",
+      "request": "launch",
+      "mainClass": "Ativ.CadastroProduto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaDialogoConfirmacao",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaDialogoConfirmacao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaTexto",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaTexto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaRadio",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaRadio",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaLogin",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaLogin",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaLabel",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaLabel",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaCombo",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaCombo",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CarregaMenuPrincipal",
       "request": "launch",
       "mainClass": "Exemplos.Carrega.CarregaMenuPrincipal",
