@@ -1,3 +1,5 @@
+package Exemplos;
+
 import java.awt.event.*;
 import javax.swing.*;
 public class GuiDialogoConfirmacao extends JPanel{

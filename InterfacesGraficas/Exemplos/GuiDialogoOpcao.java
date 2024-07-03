@@ -1,3 +1,5 @@
+package Exemplos;
+
 import java.awt.event.*;
 import javax.swing.*;
 public class GuiDialogoOpcao extends JPanel {
@@ -25,7 +27,7 @@ public class GuiDialogoOpcao extends JPanel {
                 String[] escolha = {"Masculino", "Feminino"};
                 int resp = JOptionPane.showOptionDialog(null, "Escolha o Sexo",
                         "Sexo", 0, JOptionPane.INFORMATION_MESSAGE,
-                        new ImageIcon("genero.gif"), escolha, escolha[0]);
+                        new ImageIcon("carecacalvo1.jpg"), escolha, escolha[0]);
                 lbResposta.setText("Sexo Escolhido: " + escolha[resp]);
             }
         });

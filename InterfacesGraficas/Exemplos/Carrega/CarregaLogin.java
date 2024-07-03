@@ -1,5 +1,7 @@
-package Exemplo;
+package Exemplos.Carrega;
 import javax.swing.JFrame;
+
+import Exemplos.GuiLogin;
 public class CarregaLogin {
     public static void main(String[] args){
         JFrame frame = new JFrame ("Uso de Botões");

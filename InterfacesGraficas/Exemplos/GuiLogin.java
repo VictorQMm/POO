@@ -1,4 +1,4 @@
-package Exemplo;
+package Exemplos;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

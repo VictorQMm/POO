@@ -1,4 +1,4 @@
-package Exemplo;
+package Exemplos;
 import java.awt.*;
 import javax.swing.*;
 public class GuiLabel extends JPanel {

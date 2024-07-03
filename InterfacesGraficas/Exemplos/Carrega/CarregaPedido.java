@@ -1,11 +1,15 @@
-package Exemplo;
+package Exemplos.Carrega;
+
 import javax.swing.JFrame;
-public class CarregaCombo {
+import Exemplos.GuiPedido;
+
+public class CarregaPedido {
     public static void main(String[] args){
-        JFrame frame = new JFrame ("Uso de Botões");
+        JFrame frame = new JFrame ("Uso de Pedido");
         frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
-        frame.getContentPane().add (new GuiCombo());
+        frame.getContentPane().add (new GuiPedido());
         frame.setBounds(0,0,500,300);
         frame.setVisible (true);
     }
 }
+

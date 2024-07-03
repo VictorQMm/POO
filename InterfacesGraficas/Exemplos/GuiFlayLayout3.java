@@ -1,3 +1,5 @@
+package Exemplos;
+
 import java.awt.*;
 import javax.swing.*;
 public class GuiFlayLayout3 extends JPanel {

@@ -3,6 +3,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CarregaMenuPrincipal",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaMenuPrincipal",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaOpcao",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaOpcao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaPedido",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaPedido",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaAbas",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaAbas",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaFrameInterno",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaFrameInterno",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaGuiGridLayout1",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaGuiGridLayout1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBorderLayout1",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaBorderLayout1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBorderLayout3",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaBorderLayout3",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBarraP",
+      "request": "launch",
+      "mainClass": "Exemplos.Carrega.CarregaBarraP",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBarraP",
+      "request": "launch",
+      "mainClass": "Exemplos.CarregaBarraP",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBarra",
+      "request": "launch",
+      "mainClass": "Exemplos.CarregaBarra",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBorderLayout2",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaBorderLayout2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaBarra",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaBarra",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "carregaOpcao",
+      "request": "launch",
+      "mainClass": "Exemplo.carregaOpcao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaOpcao",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaOpcao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CarregaDialogoConfirmacao",
+      "request": "launch",
+      "mainClass": "Exemplo.CarregaDialogoConfirmacao",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CarregaConfirm",
       "request": "launch",
       "mainClass": "Exemplo.CarregaConfirm",

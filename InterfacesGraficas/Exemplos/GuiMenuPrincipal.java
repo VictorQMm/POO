@@ -1,4 +1,4 @@
-package Exemplo;
+package Exemplos;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -6,6 +6,7 @@ public class GuiMenuPrincipal extends JFrame {
 	private JMenuBar mnBarra;
 	private JMenu mnArquivo, mnExemplos; 
 	private JMenuItem miSair, miBotao;
+	
 	
 	public GuiMenuPrincipal() {
 		inicializarComponentes();
@@ -53,3 +54,5 @@ public class GuiMenuPrincipal extends JFrame {
 		frame.setVisible(true);
 	}
 }
+
+
