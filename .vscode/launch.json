@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercicio4",
+      "request": "launch",
+      "mainClass": "Exercicio4",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio3",
+      "request": "launch",
+      "mainClass": "Exercicio3",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio2",
+      "request": "launch",
+      "mainClass": "Exercicio2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio1",
+      "request": "launch",
+      "mainClass": "Exercicio1",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora6",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora6",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora5",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora5",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora4",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora4",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora3",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora3",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora2",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora2",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ManipulacaoDataHora",
+      "request": "launch",
+      "mainClass": "ManipulacaoDataHora",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "GuiEventos",
+      "request": "launch",
+      "mainClass": "GuiEventos",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CadastroConta",
       "request": "launch",
       "mainClass": "Atividades.CadastroConta",
