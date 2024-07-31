@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CadastroCursos",
+      "request": "launch",
+      "mainClass": "CadastroCursos",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroContas",
+      "request": "launch",
+      "mainClass": "CadastroContas",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroProduto",
+      "request": "launch",
+      "mainClass": "CadastroProduto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ContaBancariaFrame",
+      "request": "launch",
+      "mainClass": "ContaBancariaFrame",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ProdutoFrame",
+      "request": "launch",
+      "mainClass": "ProdutoFrame",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroDeCursos",
+      "request": "launch",
+      "mainClass": "CadastroDeCursos",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroDeContas",
+      "request": "launch",
+      "mainClass": "CadastroDeContas",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CriaDiretorio",
+      "request": "launch",
+      "mainClass": "CriaDiretorio",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ExcluiDiretorio",
+      "request": "launch",
+      "mainClass": "ExcluiDiretorio",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "EditorDeTexto",
+      "request": "launch",
+      "mainClass": "EditorDeTexto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ListaDiretorio",
+      "request": "launch",
+      "mainClass": "ListaDiretorio",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "CadastroComArquivoTexto",
+      "request": "launch",
+      "mainClass": "CadastroComArquivoTexto",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "Exercicio4",
       "request": "launch",
       "mainClass": "Exercicio4",
