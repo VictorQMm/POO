@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConsultaSQL",
+      "request": "launch",
+      "mainClass": "BancoDados.ConsultaSQL",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "CadastroCursos",
       "request": "launch",
       "mainClass": "CadastroCursos",
