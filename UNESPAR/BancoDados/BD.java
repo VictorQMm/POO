@@ -4,8 +4,8 @@ import java.sql.*;
 public class BD {
     public Connection connection = null;
     private final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    private final String DBNAME = "banco";
-    private final String URL = "jdbc:mysql://localhost:3306/exemplo";
+    private final String DBNAME = "aula";
+    private final String URL = "jdbc:mysql://localhost:3306/aula";
     private final String LOGIN = "root";
     private final String SENHA = "3310";
 
