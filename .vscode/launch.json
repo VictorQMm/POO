@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NavegaFilmes",
+      "request": "launch",
+      "mainClass": "BancoDados.NavegaFilmes",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "Conecta",
+      "request": "launch",
+      "mainClass": "BancoDados.Conecta",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "ConsultaSQL",
       "request": "launch",
       "mainClass": "BancoDados.ConsultaSQL",
