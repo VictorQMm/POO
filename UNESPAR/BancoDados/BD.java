@@ -3,7 +3,7 @@ package BancoDados;
 import java.sql.*;
 public class BD {
     public Connection connection = null;
-    private final String DRIVER = "com.mysql.cj.jdbc.Driver";
+    private final String DRIVER = "com.mysql.jdbc.Driver";
     private final String DBNAME = "aula";
     private final String URL = "jdbc:mysql://localhost:3306/aula";
     private final String LOGIN = "root";

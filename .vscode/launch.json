@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConsultaFilmes",
+      "request": "launch",
+      "mainClass": "BancoDados.ConsultaFilmes",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "NavegaFilmes",
       "request": "launch",
       "mainClass": "BancoDados.NavegaFilmes",
