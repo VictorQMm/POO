@@ -8,7 +8,7 @@ public class ConsultaFilmes {
         final String URL = "jdbc:mysql://localhost:3306/banco?useTimezone=true&serverTimezone=UTC";
         try {
             Class.forName (DRIVER);
-            Connection connection = DriverManager.getConnection(URL, "root", "psw-mysql");
+            Connection connection = DriverManager.getConnection(URL, "root", "3310");
             String sql = "SELECT codigo, titulo_pt FROM filmes WHERE codigo > ? AND codigo < ? ORDER BY codigo";
             PreparedStatement statement = connection.prepareStatement(sql);
             statement.setString(1, "800");

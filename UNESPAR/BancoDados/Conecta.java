@@ -4,11 +4,11 @@ import java.sql.*;
 import javax. swing. *;
 public class Conecta {
     public static void main (String[] args) {
-        final String DRIVER = "com.mysql.cj.jdbc.Driver";
+        final String DRIVER = "com.mysql.jdbc.Driver";
         final String URL = "jdbc:mysql://localhost:3306/mysql?useTimezone=true&serverTimezone=UTC";
         try {
             Class. forName(DRIVER);
-            Connection connection = DriverManager.getConnection(URL, "root", "psw-mysql");
+            Connection connection = DriverManager.getConnection(URL, "root", "3310");
             JOptionPane.showMessageDialog(null, "Conexão realizada com sucesso");
             connection.close();
         }catch (ClassNotFoundException erro) {
