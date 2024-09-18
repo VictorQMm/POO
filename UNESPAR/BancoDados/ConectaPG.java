@@ -8,9 +8,9 @@ import javax.swing.*;
 public class ConectaPG {
     public static void main (String[] args) {
         final String DRIVER = "org.postgresql.Driver";
-        final String URL = "jdbc:postgresql://localhost:5432/banco";
-        final String USER = "postgres";
-        final String PASSWORD = "psw-postgresql";
+        final String URL = "jdbc:postgresql://localhost:3306/exemplo";
+        final String USER = "root";
+        final String PASSWORD = "3310";
         try {
             Class. forName(DRIVER);
             Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);

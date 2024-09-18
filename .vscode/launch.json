@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GuiCadastroFilmess",
+      "request": "launch",
+      "mainClass": "BancoDados.GuiCadastroFilmess",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "ConectaPG",
+      "request": "launch",
+      "mainClass": "BancoDados.ConectaPG",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
+      "name": "GuiCadastroFilmes",
+      "request": "launch",
+      "mainClass": "BancoDados.GuiCadastroFilmes",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "ConsultaFilmes",
       "request": "launch",
       "mainClass": "BancoDados.ConsultaFilmes",

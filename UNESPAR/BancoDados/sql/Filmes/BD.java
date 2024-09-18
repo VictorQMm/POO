@@ -1,10 +1,10 @@
-package BancoDados;
+package BancoDados.sql.Filmes;
 
 import java.sql.*;
 public class BD {
     public Connection connection = null;
-    private final String DRIVER = "com.mysql.jdbc.Driver";
-    private final String DBNAME = "exemplo";
+    private final String DRIVER = "com.mysql.cj.jdbc.Driver";
+    private final String DBNAME = "banco";
     private final String URL = "jdbc:mysql://localhost:3306/" + DBNAME;
     private final String LOGIN = "root";
     private final String SENHA = "3310";
