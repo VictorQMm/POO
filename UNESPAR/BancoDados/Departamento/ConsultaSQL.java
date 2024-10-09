@@ -1,8 +1,9 @@
-package BancoDados;
+package BancoDados.Departamento;
 
 import java.sql.*;
 import javax.swing.*;
 import javax.swing.table.*;
+
 import java.awt.event.*;
 public class ConsultaSQL extends JFrame {
     private JLabel label1;

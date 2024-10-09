@@ -1,5 +1,6 @@
 package BancoDados;
 
+import BancoDados.Departamento.BD;
 import java.sql.*;
 public class FilmesDAO {
     public Filmes filme;

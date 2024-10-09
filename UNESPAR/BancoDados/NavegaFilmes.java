@@ -2,6 +2,9 @@ package BancoDados;
 
 import java.sql.*;
 import javax.swing.*;
+
+import BancoDados.Departamento.BD;
+
 import java.awt.*;
 import java.awt.event.*;
 public class NavegaFilmes extends JFrame {

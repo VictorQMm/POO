@@ -1,4 +1,4 @@
-package BancoDados;
+package BancoDados.Departamento;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

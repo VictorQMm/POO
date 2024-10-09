@@ -1,4 +1,4 @@
-package BancoDados;
+package BancoDados.Departamento;
 
 import java.sql.*;
 public class BD {

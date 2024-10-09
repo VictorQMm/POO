@@ -1,4 +1,4 @@
-package BancoDados;
+package BancoDados.Departamento;
 
 import java.sql.*;
 import javax. swing. *;
@@ -8,9 +8,9 @@ public class Conecta {
         final String URL = "jdbc:mysql://localhost:3306/mysql?useTimezone=true&serverTimezone=UTC";
         try {
             Class. forName(DRIVER);
-            Connection connection = DriverManager.getConnection(URL, "root", "3310");
-            JOptionPane.showMessageDialog(null, "Conexão realizada com sucesso");
-            connection.close();
+            try (Connection connection = DriverManager.getConnection(URL, "root", "3310")) {
+                JOptionPane.showMessageDialog(null, "Conexão realizada com sucesso");
+            }
         }catch (ClassNotFoundException erro) {
             JOptionPane.showMessageDialog(null, "Driver não encontrado!\n"
                     + erro.toString());

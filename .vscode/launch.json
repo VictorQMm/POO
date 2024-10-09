@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CadastroCurso",
+      "request": "launch",
+      "mainClass": "InterfacesGraficas.Atividades.CadastroCurso",
+      "projectName": "POO_1ff29d2b"
+    },
+    {
+      "type": "java",
       "name": "GuiCadastroFilmess",
       "request": "launch",
       "mainClass": "BancoDados.GuiCadastroFilmess",
